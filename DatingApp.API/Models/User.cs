@@ -23,7 +23,7 @@ namespace DatingApp.API.Models
 
         public DateTime LastActive { get; set; }
 
-        public string Indtroduction { get; set; }
+        public string Introduction { get; set; }
 
         public string Interests { get; set; }
 
